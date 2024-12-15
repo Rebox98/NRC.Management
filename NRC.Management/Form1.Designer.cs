@@ -214,7 +214,7 @@
             this.tbPassword.Name = "tbPassword";
             this.tbPassword.Size = new System.Drawing.Size(60, 20);
             this.tbPassword.TabIndex = 12;
-            this.tbPassword.Text = "1234567";
+            this.tbPassword.Text = "admin";
             this.tbPassword.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // label3
